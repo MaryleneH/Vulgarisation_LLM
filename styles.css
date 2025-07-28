@@ -75,10 +75,10 @@ pre, code {
 
 /* Layout adjustments for wider content and smaller images */
 .sidebar {
-  flex: 0 0 200px !important;
+  flex: 0 0 250px !important;
 }
 .site-body {
-  max-width: 800px !important;
+  max-width: 1200px !important;
   margin: 0 auto;
 }
 img {

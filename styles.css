@@ -12,10 +12,10 @@ body {
 
 /* Color palette */
 :root {
-  /* Couleur principale plus sombre pour la navbar */
-  --primary: #36543a;   /* gris-vert foncé assombri */
-  --secondary: #7b9e8e; /* gris-vert moyen */
-  --accent: #a3b9ad;    /* gris-vert clair */
+  /* Couleur principale assombrie pour la navbar */
+  --primary: #36543a;
+  --secondary: #7b9e8e;
+  --accent: #a3b9ad;
   --bg-panel: #ffffff;
   --border: #dfe4e2;
 }
@@ -71,4 +71,19 @@ pre, code {
   padding: 1rem 0;
   border-top: 1px solid var(--border);
   color: var(--secondary);
+}
+
+/* Layout adjustments for wider content and smaller images */
+.sidebar {
+  flex: 0 0 200px !important;
+}
+.site-body {
+  max-width: 800px !important;
+  margin: 0 auto;
+}
+img {
+  max-width: 70% !important;
+  height: auto;
+  display: block;
+  margin: 0.5rem auto;
 }

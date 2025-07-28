@@ -42,15 +42,15 @@
     "text": "Moteur de recherche : il retourne des pages web contenant vos mots-clés.\n\nLLM : il génère directement une réponse synthétique adaptée à votre question.\n\nL’IA peut aussi garder en mémoire le fil de la conversation pour des échanges plus naturels."
   },
   {
-    "objectID": "apprentrissage.html",
-    "href": "apprentrissage.html",
+    "objectID": "apprentissage.html",
+    "href": "apprentissage.html",
     "title": "Comment l’IA apprend",
     "section": "",
     "text": "Imaginez un enfant qui apprend à reconnaître les animaux. Au début, on lui montre des milliers de photos en disant « ça c’est un chat », « ça c’est un chien ». Petit à petit, son cerveau identifie les « patterns » : les chats ont des oreilles pointues, les chiens souvent des oreilles tombantes…\nL’IA fait de même, mais à grande échelle :\n1. Collecte : elle « lit » des milliards de pages web, livres, articles\n2. Analyse des patterns : elle calcule des probabilités (ex. après « Bonjour », on trouve souvent « comment », « monsieur »…)\n3. Ajustement : elle affine ses « intuitions » en testant ses réponses et en corrigeant ses erreurs"
   },
   {
-    "objectID": "apprentrissage.html#lanalogie-de-lapprentissage-humain",
-    "href": "apprentrissage.html#lanalogie-de-lapprentissage-humain",
+    "objectID": "apprentissage.html#lanalogie-de-lapprentissage-humain",
+    "href": "apprentissage.html#lanalogie-de-lapprentissage-humain",
     "title": "Comment l’IA apprend",
     "section": "",
     "text": "Imaginez un enfant qui apprend à reconnaître les animaux. Au début, on lui montre des milliers de photos en disant « ça c’est un chat », « ça c’est un chien ». Petit à petit, son cerveau identifie les « patterns » : les chats ont des oreilles pointues, les chiens souvent des oreilles tombantes…\nL’IA fait de même, mais à grande échelle :\n1. Collecte : elle « lit » des milliards de pages web, livres, articles\n2. Analyse des patterns : elle calcule des probabilités (ex. après « Bonjour », on trouve souvent « comment », « monsieur »…)\n3. Ajustement : elle affine ses « intuitions » en testant ses réponses et en corrigeant ses erreurs"

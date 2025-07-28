@@ -29,3 +29,8 @@ format:
       light: cosmo
     code-fold: true
     css: styles.css
+
+deploy:
+  gh-pages:
+    branch: pages    # ou gh-pages par défaut
+    push: true

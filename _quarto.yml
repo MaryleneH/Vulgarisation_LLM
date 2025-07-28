@@ -1,0 +1,31 @@
+# File: _quarto.yml
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Vulgarisation des LLM"
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Apprentissage"
+        href: apprentissage.qmd
+      - text: "Architecture"
+        href: architecture.qmd
+      - text: "Erreurs"
+        href: erreurs.qmd
+      - text: "Processus"
+        href: processus.qmd
+      - text: "IA vs Recherche"
+        href: difference.qmd
+      - text: "Implications"
+        href: implications.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+    code-fold: true
+    css: styles.css

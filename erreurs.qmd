@@ -1,0 +1,13 @@
+---
+title: "Pourquoi l'IA peut se tromper"
+format: html
+---
+
+## Les limites statistiques
+
+Comme un humain peut confondre deux souvenirs similaires, l'IA peut mélanger des informations vues pendant son entraînement.
+
+- **Données d'entraînement** : si l'IA a vu plus d'articles sur les chats que les reptiles, elle sera moins fiable sur les reptiles  
+- **Patterns trompeurs** : elle peut reproduire des associations incorrectes présentes dans ses données  
+
+![](images/erreurs.png)

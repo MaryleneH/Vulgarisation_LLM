@@ -1,0 +1,14 @@
+---
+title: "Pourquoi c'est différent d'un moteur de recherche"
+format: html
+---
+
+## Recherche vs IA
+
+- **Moteur de recherche** : il retourne des pages web contenant vos mots-clés.  
+- **LLM** : il génère directement une réponse synthétique adaptée à votre question.  
+
+L'IA peut aussi garder en mémoire le fil de la conversation pour des échanges plus naturels.  
+
+![](images/difference.png)
+

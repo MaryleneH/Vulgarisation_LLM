@@ -1,0 +1,18 @@
+---
+title: "Accueil"
+format: html
+---
+
+# Bienvenue
+
+Bienvenue sur ce site de vulgarisation des **Large Language Models (LLM)**.  
+Ce site s'adresse à des débutants, sans prérequis technique.
+
+## Menu
+
+- [Comment l'IA apprend](apprentissage.qmd)  
+- [L'architecture interne](architecture.qmd)  
+- [Pourquoi l'IA peut se tromper](erreurs.qmd)  
+- [Processus de génération](processus.qmd)  
+- [IA vs moteur de recherche](difference.qmd)  
+- [Implications pratiques](implications.qmd)

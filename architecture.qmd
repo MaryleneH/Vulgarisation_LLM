@@ -1,0 +1,16 @@
+---
+title: "L'architecture interne"
+format: html
+---
+
+## Les neurones artificiels
+
+Notre cerveau a des neurones connectés entre eux. Quand on entend « pizza », plusieurs neurones s'activent (« nourriture », « Italie », « fromage », « faim »…).
+
+L'IA a des « neurones » artificiels (des calculs mathématiques) organisés en couches :  
+- **Couche 1** : reconnaît les mots individuels  
+- **Couche 2** : comprend les groupes de mots  
+- **Couche 3** : saisit le sens des phrases  
+- **Couches sup.** : construisent une compréhension globale  
+
+![](images/architecture.png)

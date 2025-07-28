@@ -1,0 +1,71 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap');
+
+/* Base styles */
+body {
+font-family: 'Roboto Slab', serif;
+background-color: #f5f7f6;
+color: #333;
+}
+
+/* Color palette /
+:root {
+--primary: #4a6f58;   / gris-vert foncé /
+--secondary: #7b9e8e; / gris-vert moyen /
+--accent: #a3b9ad;    / gris-vert clair */
+--bg-panel: #ffffff;
+--border: #dfe4e2;
+}
+
+/* Navbar styling */
+.navbar {
+background-color: var(--primary);
+border-bottom: 2px solid var(--border);
+}
+.navbar a {
+color: #fff;
+font-weight: 600;
+}
+.navbar a:hover {
+color: var(--accent);
+}
+
+/* Headings */
+h1, h2, h3 {
+color: var(--primary);
+}
+
+/* Panels and card styling */
+.card, .panel {
+background-color: var(--bg-panel);
+border: 1px solid var(--border);
+border-radius: 8px;
+padding: 1rem;
+margin-bottom: 1.5rem;
+box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Links and buttons */
+a, .btn {
+color: var(--primary);
+transition: color 0.3s ease;
+}
+a:hover, .btn:hover {
+color: var(--secondary);
+}
+
+/* Code blocks */
+pre, code {
+background-color: #eef2f1;
+border-radius: 4px;
+padding: 0.2rem 0.4rem;
+font-family: 'Courier New', monospace;
+}
+
+/* Footer styling */
+.footer {
+text-align: center;
+padding: 1rem 0;
+border-top: 1px solid var(--border);
+color: var(--secondary);
+}

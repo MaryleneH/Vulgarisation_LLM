@@ -29,6 +29,7 @@ format:
       light: cosmo
     code-fold: true
     css: styles.css
+    page-layout: full
 
 deploy:
   gh-pages:

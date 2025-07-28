@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "processus.html",
+    "href": "processus.html",
+    "title": "Ce qui se passe quand on pose une question",
+    "section": "",
+    "text": "Analyse : l’IA décompose la phrase, identifie mots-clés et contexte.\n\nActivation : elle « fouille » sa mémoire interne pour trouver les infos pertinentes.\n\nCalcul : elle évalue la probabilité des mots suivants (ex. prob. que le prochain mot soit « merci »).\n\nGénération : elle construit la réponse mot par mot."
+  },
+  {
+    "objectID": "processus.html#étapes-de-génération",
+    "href": "processus.html#étapes-de-génération",
+    "title": "Ce qui se passe quand on pose une question",
+    "section": "",
+    "text": "Analyse : l’IA décompose la phrase, identifie mots-clés et contexte.\n\nActivation : elle « fouille » sa mémoire interne pour trouver les infos pertinentes.\n\nCalcul : elle évalue la probabilité des mots suivants (ex. prob. que le prochain mot soit « merci »).\n\nGénération : elle construit la réponse mot par mot."
+  },
+  {
+    "objectID": "implications.html",
+    "href": "implications.html",
+    "title": "Les implications pratiques",
+    "section": "",
+    "text": "Accessibilité : plus besoin de mots-clés précis.\n\nPersonnalisation : l’IA s’adapte à votre style.\n\nSynthèse : elle combine plusieurs sources.\n\nPrécautions :\n- Vérifiez toujours les informations importantes.\n- Ne confondez pas fiabilité et vraisemblance."
+  },
+  {
+    "objectID": "implications.html#révolutionnaire-mais-à-utiliser-avec-précaution",
+    "href": "implications.html#révolutionnaire-mais-à-utiliser-avec-précaution",
+    "title": "Les implications pratiques",
+    "section": "",
+    "text": "Accessibilité : plus besoin de mots-clés précis.\n\nPersonnalisation : l’IA s’adapte à votre style.\n\nSynthèse : elle combine plusieurs sources.\n\nPrécautions :\n- Vérifiez toujours les informations importantes.\n- Ne confondez pas fiabilité et vraisemblance."
+  },
+  {
+    "objectID": "difference.html",
+    "href": "difference.html",
+    "title": "Pourquoi c’est différent d’un moteur de recherche",
+    "section": "",
+    "text": "Moteur de recherche : il retourne des pages web contenant vos mots-clés.\n\nLLM : il génère directement une réponse synthétique adaptée à votre question.\n\nL’IA peut aussi garder en mémoire le fil de la conversation pour des échanges plus naturels."
+  },
+  {
+    "objectID": "difference.html#recherche-vs-ia",
+    "href": "difference.html#recherche-vs-ia",
+    "title": "Pourquoi c’est différent d’un moteur de recherche",
+    "section": "",
+    "text": "Moteur de recherche : il retourne des pages web contenant vos mots-clés.\n\nLLM : il génère directement une réponse synthétique adaptée à votre question.\n\nL’IA peut aussi garder en mémoire le fil de la conversation pour des échanges plus naturels."
+  },
+  {
+    "objectID": "apprentrissage.html",
+    "href": "apprentrissage.html",
+    "title": "Comment l’IA apprend",
+    "section": "",
+    "text": "Imaginez un enfant qui apprend à reconnaître les animaux. Au début, on lui montre des milliers de photos en disant « ça c’est un chat », « ça c’est un chien ». Petit à petit, son cerveau identifie les « patterns » : les chats ont des oreilles pointues, les chiens souvent des oreilles tombantes…\nL’IA fait de même, mais à grande échelle :\n1. Collecte : elle « lit » des milliards de pages web, livres, articles\n2. Analyse des patterns : elle calcule des probabilités (ex. après « Bonjour », on trouve souvent « comment », « monsieur »…)\n3. Ajustement : elle affine ses « intuitions » en testant ses réponses et en corrigeant ses erreurs"
+  },
+  {
+    "objectID": "apprentrissage.html#lanalogie-de-lapprentissage-humain",
+    "href": "apprentrissage.html#lanalogie-de-lapprentissage-humain",
+    "title": "Comment l’IA apprend",
+    "section": "",
+    "text": "Imaginez un enfant qui apprend à reconnaître les animaux. Au début, on lui montre des milliers de photos en disant « ça c’est un chat », « ça c’est un chien ». Petit à petit, son cerveau identifie les « patterns » : les chats ont des oreilles pointues, les chiens souvent des oreilles tombantes…\nL’IA fait de même, mais à grande échelle :\n1. Collecte : elle « lit » des milliards de pages web, livres, articles\n2. Analyse des patterns : elle calcule des probabilités (ex. après « Bonjour », on trouve souvent « comment », « monsieur »…)\n3. Ajustement : elle affine ses « intuitions » en testant ses réponses et en corrigeant ses erreurs"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "architecture.html",
+    "href": "architecture.html",
+    "title": "L’architecture interne",
+    "section": "",
+    "text": "Notre cerveau a des neurones connectés entre eux. Quand on entend « pizza », plusieurs neurones s’activent (« nourriture », « Italie », « fromage », « faim »…).\nL’IA a des « neurones » artificiels (des calculs mathématiques) organisés en couches :\n- Couche 1 : reconnaît les mots individuels\n- Couche 2 : comprend les groupes de mots\n- Couche 3 : saisit le sens des phrases\n- Couches sup. : construisent une compréhension globale"
+  },
+  {
+    "objectID": "architecture.html#les-neurones-artificiels",
+    "href": "architecture.html#les-neurones-artificiels",
+    "title": "L’architecture interne",
+    "section": "",
+    "text": "Notre cerveau a des neurones connectés entre eux. Quand on entend « pizza », plusieurs neurones s’activent (« nourriture », « Italie », « fromage », « faim »…).\nL’IA a des « neurones » artificiels (des calculs mathématiques) organisés en couches :\n- Couche 1 : reconnaît les mots individuels\n- Couche 2 : comprend les groupes de mots\n- Couche 3 : saisit le sens des phrases\n- Couches sup. : construisent une compréhension globale"
+  },
+  {
+    "objectID": "erreurs.html",
+    "href": "erreurs.html",
+    "title": "Pourquoi l’IA peut se tromper",
+    "section": "",
+    "text": "Comme un humain peut confondre deux souvenirs similaires, l’IA peut mélanger des informations vues pendant son entraînement.\n\nDonnées d’entraînement : si l’IA a vu plus d’articles sur les chats que les reptiles, elle sera moins fiable sur les reptiles\n\nPatterns trompeurs : elle peut reproduire des associations incorrectes présentes dans ses données"
+  },
+  {
+    "objectID": "erreurs.html#les-limites-statistiques",
+    "href": "erreurs.html#les-limites-statistiques",
+    "title": "Pourquoi l’IA peut se tromper",
+    "section": "",
+    "text": "Comme un humain peut confondre deux souvenirs similaires, l’IA peut mélanger des informations vues pendant son entraînement.\n\nDonnées d’entraînement : si l’IA a vu plus d’articles sur les chats que les reptiles, elle sera moins fiable sur les reptiles\n\nPatterns trompeurs : elle peut reproduire des associations incorrectes présentes dans ses données"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Accueil",
+    "section": "",
+    "text": "Bienvenue sur ce site de vulgarisation des Large Language Models (LLM).\nCe site s’adresse à des débutants, sans prérequis technique.\n\n\n\nComment l’IA apprend\n\nL’architecture interne\n\nPourquoi l’IA peut se tromper\n\nProcessus de génération\n\nIA vs moteur de recherche\n\nImplications pratiques"
+  },
+  {
+    "objectID": "index.html#menu",
+    "href": "index.html#menu",
+    "title": "Accueil",
+    "section": "",
+    "text": "Comment l’IA apprend\n\nL’architecture interne\n\nPourquoi l’IA peut se tromper\n\nProcessus de génération\n\nIA vs moteur de recherche\n\nImplications pratiques"
+  }
+]

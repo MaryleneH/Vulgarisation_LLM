@@ -1,16 +1,18 @@
 ---
 title: "Les implications pratiques"
-format: html
+format:
+  html:
+    page-layout: full
 ---
 
 ## Révolutionnaire mais à utiliser avec précaution
 
-- **Accessibilité** : plus besoin de mots-clés précis.  
-- **Personnalisation** : l'IA s'adapte à votre style.  
-- **Synthèse** : elle combine plusieurs sources.  
+-   **Accessibilité** : plus besoin de mots-clés précis.\
+-   **Personnalisation** : l'IA s'adapte à votre style.\
+-   **Synthèse** : elle combine plusieurs sources.
 
-**Précautions** :  
-- Vérifiez toujours les informations importantes.  
-- Ne confondez pas fiabilité et vraisemblance.  
+**Précautions** :\
+- Vérifiez toujours les informations importantes.\
+- Ne confondez pas fiabilité et vraisemblance.
 
 ![](images/implications.png)

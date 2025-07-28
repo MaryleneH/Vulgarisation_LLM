@@ -1,13 +1,15 @@
 ---
 title: "Ce qui se passe quand on pose une question"
-format: html
+format:
+  html:
+    page-layout: full
 ---
 
 ## Étapes de génération
 
-1. **Analyse** : l'IA décompose la phrase, identifie mots-clés et contexte.  
-2. **Activation** : elle « fouille » sa mémoire interne pour trouver les infos pertinentes.  
-3. **Calcul** : elle évalue la probabilité des mots suivants (ex. prob. que le prochain mot soit « merci »).  
-4. **Génération** : elle construit la réponse mot par mot.  
+1.  **Analyse** : l'IA décompose la phrase, identifie mots-clés et contexte.\
+2.  **Activation** : elle « fouille » sa mémoire interne pour trouver les infos pertinentes.\
+3.  **Calcul** : elle évalue la probabilité des mots suivants (ex. prob. que le prochain mot soit « merci »).\
+4.  **Génération** : elle construit la réponse mot par mot.
 
 ![](images/processus.png)

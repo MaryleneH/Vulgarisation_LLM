@@ -5,11 +5,24 @@ format: html
 
 ## L'analogie de l'apprentissage humain
 
-Imaginez un enfant qui apprend à reconnaître les animaux. Au début, on lui montre des milliers de photos en disant « ça c'est un chat », « ça c'est un chien ». Petit à petit, son cerveau identifie les « patterns » : les chats ont des oreilles pointues, les chiens souvent des oreilles tombantes…
+## Comment l'IA "apprend" - le processus d'entraînement
 
-L'IA fait de même, mais à grande échelle :  
-1. **Collecte** : elle « lit » des milliards de pages web, livres, articles  
-2. **Analyse des patterns** : elle calcule des probabilités (ex. après « Bonjour », on trouve souvent « comment », « monsieur »…)  
-3. **Ajustement** : elle affine ses « intuitions » en testant ses réponses et en corrigeant ses erreurs  
+**L'analogie de l'apprentissage humain :**\
+Imagine un enfant qui apprend à reconnaître les animaux. Au début, on lui montre des milliers de photos en disant "ça c'est un chat", "ça c'est un chien". Petit à petit, son cerveau identifie les patterns : les chats ont des oreilles pointues, les chiens ont souvent des oreilles tombantes, etc.
+
+L'IA fait pareil, mais avec des millions d'exemples. Elle analyse des textes, identifie que certains mots vont souvent ensemble, que certaines structures de phrases expriment des émotions particulières, etc.
+
+**Le processus statistique (vulgarisé) :**\
+
+-   **Phase 1 - Collecte** : L'IA "lit" des milliards de pages web, livres, articles
+
+-   **Phase 2 - Analyse des patterns** : Elle calcule les probabilités ("après le mot 'Bonjour', on trouve souvent 'comment', 'monsieur', 'madame'")
+
+-   **Phase 3 - Ajustement** : Elle affine ses "intuitions" en testant ses réponses et en corrigeant ses erreurs
+
+L'IA fait donc de même, mais à grande échelle :\
+1. **Collecte** : elle « lit » des milliards de pages web, livres, articles\
+2. **Analyse des patterns** : elle calcule des probabilités (ex. après « Bonjour », on trouve souvent « comment », « monsieur »…)\
+3. **Ajustement** : elle affine ses « intuitions » en testant ses réponses et en corrigeant ses erreurs
 
 ![](images/apprentissage.png)
